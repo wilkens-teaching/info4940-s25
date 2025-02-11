@@ -39,7 +39,7 @@ Readings will be added in response to student interest and project directions.
 
 ### Thurs, 2/13
 * Working session: Data and methods selection, experiment design work
-* Due: Problem summary and analysis; data and methods pitch
+* Due: Problem summary and analysis; data sources; methods overview
 
 ## Week 5
 ### Tues, 2/18
