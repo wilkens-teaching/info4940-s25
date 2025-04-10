@@ -2,7 +2,7 @@
 # good for debugging and playing on macbooks and such
 
 out_dir = 'out-shakespeare-char-baby'
-eval_interval = 20 # keep frequent because we'll overfit
+eval_interval = 50 # keep frequent because we'll overfit
 eval_iters = 20
 log_interval = 10 # don't print too too often
 
@@ -33,5 +33,5 @@ beta2 = 0.99 # make a bit bigger because number of tokens per iter is small
 warmup_iters = 20 # not super necessary potentially
 
 # on macbook also add
-device = 'mps'  # run on Mac GPU
+device = 'mps'  # run on mac gpu
 compile = False # do not torch compile the model
