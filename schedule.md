@@ -100,7 +100,7 @@ Readings will be added in response to student interest and project directions.
 * Due: Status report
 
 ### Thurs, 4/10
-* Flex/TBD
+* Lecture: GPT in code
 * Due: Completion plans
 
 ## Week 13
@@ -109,7 +109,7 @@ Readings will be added in response to student interest and project directions.
 * Due: Status report
 
 ### Thurs, 4/17
-* Flex/TBD
+* Sparse autoencoders
 
 ## Week 14
 ### Tues, 4/22
@@ -130,4 +130,4 @@ Readings will be added in response to student interest and project directions.
 * Final class meeting
 
 ## Finals week
-* Final report due on a day and time to be set by the Office of the University Registrar (available mid-March). The due date cannot be changed.
+* Final report due Wednesday, May 14 at noon via Gradescope.
