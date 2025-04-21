@@ -1,2 +1,3 @@
 
 *.ipynb_checkpoints
+lectures/__pycache__/fightinwords.cpython-312.pyc
